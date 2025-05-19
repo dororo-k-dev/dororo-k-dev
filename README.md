@@ -78,7 +78,7 @@
 
 #### Education
 - **Bachelor of Science in Computer Science**  
-  The City University of New York
+  New York University
 
 #### Professional Experience
 - **Lead Data Engineer | 10/2021 – Present**  
