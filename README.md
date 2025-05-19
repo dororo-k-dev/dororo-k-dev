@@ -23,19 +23,12 @@
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
-- 📦 **Architected a scalable Lakehouse platform** on AWS using Databricks and Delta Lake, reducing reporting latency by 60% - [Udacity](https://www.udacity.com/)
-- 📦 **Built real-time streaming pipelines** with Apache Kafka and Flink for fraud detection - [Udacity](https://www.udacity.com/)
-- 📦 **Optimized ETL performance** with AWS Glue and Redshift, boosting throughput by 45% and reducing compute costs - [Udacity](https://www.udacity.com/)
-- 📦 **Unified 12+ data sources** using dbt and Airflow, ensuring data consistency and lineage - [LYFE Marketing](https://www.lyfemarketing.com/)
-- 📦 **Migrated on-prem Hadoop workloads** to GCP BigQuery, reducing infrastructure costs by 30% - [LYFE Marketing](https://www.lyfemarketing.com/)
+- 📦 **Built multi-cloud ELT pipelines** using PySpark, Airflow, and dbt on Azure and AWS, reducing batch processing time by 40% and enhancing data freshness – [Tech Edge Solutions](https://www.techedge.com/)
+- 📦 **Designed a real-time streaming framework** with Apache Kafka (KSQL), Flink, and Delta Lake on Databricks, powering instant analytics for healthcare operations – [Tech Edge Solutions](https://www.techedge.com/)
+- 📦 **Developed HIPAA-compliant ML pipelines** using Databricks Feature Store and real-time scoring for 10M+ healthcare records daily – [CareCloud](https://www.carecloud.com/)
+- 📦 **Automated CDC ingestion pipelines** using Debezium and Kafka across GCP and AWS, ensuring high-fidelity real-time sync between transactional and analytical systems – [CareCloud](https://www.carecloud.com/)
+- 📦 **Standardized data contracts and CI/CD workflows** using GitHub Actions and Terraform across a federated multi-cloud architecture – [Tech Edge Solutions](https://www.techedge.com/)
 
-##### 🧾 Certifications I have Accomplished
-
-- 🎖 AWS Certified Solution Architect Associate
-- 🎖 AWS Certified Developer Associate
-- 🎖 AWS Certified Solution Architect Professional
-- 🎖 AWS Certified DevOps Engineer Professional
-- 🎖 AWS Certified DevOps Security Specialty
 
 #### Programming Language Stack
 <p align="left">
@@ -88,15 +81,16 @@
   The City University of New York
 
 #### Professional Experience
-- **Lead Data Engineer | 03/2022 – 03/2025**  
-  **Udacity**  
+- **Lead Data Engineer | 10/2021 – Present**  
+  **Tech Edge Solutions**  
   Architected scalable cloud-native data platforms and engineered real-time streaming pipelines. Led data engineering team, optimized ETL pipelines, and implemented enterprise-level data governance across cloud platforms.
 
-- **Senior Data Engineer | 02/2018 – 03/2022**  
-  **LYFE Marketing**  
+- **Senior Data Engineer | 12/2017 – 09/2021**  
+  **CareCloud**  
   Modernized BI architecture, built real-time data ingestion pipelines, and implemented CI/CD practices across data pipelines. Led efforts to migrate legacy infrastructure to cloud-based solutions, reducing costs and improving efficiency.
 
-- **Data Engineer | 01/2016 – 02/2018**  
-  **Transcure**  
+- **ETL & Cloud Data Engineer
+ | 08/2015 – 11/2017**  
+  **Riversand Technologies**  
   Designed and automated ETL workflows, improved sales forecasting accuracy, and developed interactive dashboards for operational visibility.
 
