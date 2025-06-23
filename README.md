@@ -76,21 +76,18 @@
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/>
 </p>
 
-#### Education
-- **Bachelor of Science in Computer Science**  
-  New York University
-
 #### Professional Experience
-- **Lead Data Engineer | 10/2021 – Present**  
+- **Lead Data Engineer 
   **Tech Edge Solutions**  
   Architected scalable cloud-native data platforms and engineered real-time streaming pipelines. Led data engineering team, optimized ETL pipelines, and implemented enterprise-level data governance across cloud platforms.
 
-- **Senior Data Engineer | 12/2017 – 09/2021**  
+- **Senior Data Engineer
+
   **CareCloud**  
   Modernized BI architecture, built real-time data ingestion pipelines, and implemented CI/CD practices across data pipelines. Led efforts to migrate legacy infrastructure to cloud-based solutions, reducing costs and improving efficiency.
 
 - **ETL & Cloud Data Engineer
- | 08/2015 – 11/2017**  
+  
   **Riversand Technologies**  
   Designed and automated ETL workflows, improved sales forecasting accuracy, and developed interactive dashboards for operational visibility.
 
