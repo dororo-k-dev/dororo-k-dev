@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ryan K, Lead Data Engineer | Data Architect</h1>
+<h1 align="center">Hi 👋, Lead Data Engineer | Data Architect</h1>
 <h3 align="center">An Engineer who ♥ Data and Cloud Solutions</h3>
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/ryank-data" target="blank">
+">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="ryank-data" width="22px" />
   </a>
 </p>
@@ -17,7 +17,6 @@
 
 💬 Ask me about **Cloud Data Platforms, ETL/ELT Pipelines, and Big Data Solutions**
 
-📫 You can reach me at **ryank.dataarch@gmail.com**
 
 ⚡ Fun fact **I turn complex data into actionable insights with cutting-edge cloud technologies**
 
